@@ -1,0 +1,6 @@
+2021-08-19 23:29:49.639  WARN 6920 --- [http-nio-8080-exec-1] c.e.s.controller.MainController          : This is WARN
+2021-08-19 23:29:49.642 ERROR 6920 --- [http-nio-8080-exec-1] c.e.s.controller.MainController          : This is ERROR
+2021-08-19 23:35:01.383  WARN 2252 --- [http-nio-8080-exec-1] c.e.s.controller.MainController          : This is WARN
+2021-08-19 23:35:01.386 ERROR 2252 --- [http-nio-8080-exec-1] c.e.s.controller.MainController          : This is ERROR
+2021-Aug-19 23:37:12.990 WARN  [http-nio-8080-exec-1] c.e.s.c.MainController - This is WARN
+2021-Aug-19 23:37:12.992 ERROR [http-nio-8080-exec-1] c.e.s.c.MainController - This is ERROR
